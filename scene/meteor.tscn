@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dv5l844jut1c"]
+
+[ext_resource type="Texture2D" uid="uid://deemp3wd15nc" path="res://PNG/Meteors/meteorBrown_big1.png" id="1_m2dx4"]
+
+[node name="Meteor" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_m2dx4")
